@@ -1,11 +1,16 @@
 {
-  "next": null,
+  "next": {
+    "date": "2026-10-20",
+    "time": "19:00",
+    "tz": "America/New_York",
+    "display": "October 20 at 7:00 PM EST"
+  },
   "last": {
     "date": "2026-09-16",
     "time": "19:00",
     "tz": "America/New_York",
     "display": "September 16 at 7:00 PM EST"
   },
-  "generated_at": "2026-09-16T23:00:55.675Z",
+  "generated_at": "2026-10-12T13:35:24.486Z",
   "slug": "vc-live"
 }
